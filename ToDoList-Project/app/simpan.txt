@@ -1,0 +1,16 @@
+<section class="data-info">
+            <div class="prioritas">
+                <div class="prioritas-lingkaran-tinggi"></div>Tinggi
+            </div>
+            <div class="status-red">Not Completed</div>
+            <p class="deadline">Deadline By 2023/08/01</p>
+        </section>
+        <section class="data-atas">
+            <span class="data-waktu">Dibuat Pada 2023/07/07 | Terakhir Update Pada 2023/07/18</span>
+            <h4 class="data-judul">Test</h4>
+        </section>
+        <section class="data-bawah">
+            <h5 class="data-isi">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi corrupti recusandae asperiores dicta? Eius nisi debitis consequuntur tempora sit perspiciatis sint, deleniti repellendus dolor? Consequuntur, doloremque. Adipisci dolores quibusdam rem! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quo reiciendis mollitia suscipit! Eum laboriosam sunt adipisci eos, suscipit animi magni. Adipisci perferendis quaerat consectetur exercitationem ex harum ipsum blanditiis facilis. Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, unde doloremque culpa sed quibusdam voluptatibus quia pariatur. Nam aspernatur ab reiciendis natus repudiandae suscipit, quas, dolor minima qui aut maxime?</h5>
+            <button class="ganti">Ganti Data</button>
+            <button class="hapus">Hapus Data</button>
+        </section>
